@@ -1,4 +1,4 @@
-# Case Study Project
+# RNS Project
 
 ## Getting started
 
